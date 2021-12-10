@@ -15,6 +15,7 @@
 
 ## Code Owners
 * [Chsaiujwal](https://github.com/chsaiujwal)
+* [Yash raj](https://github.com/Huvaris)
 * [Aditya](https://github.com/Aditya-XD)
 * [Lakhac](https://github.com/Lakhac)
 * [InukaAsith](https://github.com/InukaAsith)

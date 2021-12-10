@@ -77,14 +77,11 @@ async def mentioned_(client, message):
     await message.reply_text("`Hello World! By The Way Why Did You Mention Me?`")
 ```
 
-# X-Tra Plugins 🎸
-* Please Visit [Xtra-Plugins](https://github.com/DevsExpo/Xtra-Plugins) To Checkout Xtra-Plugins.
-
 
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-* Copyright (C) 2020-2021 by DevsExpo@Github, < https://github.com/DevsExpo >.
+* Copyright (C) 2020-2021 by Huvaris@Github, < https://github.com/Huvaris >.
 
 FridayUB is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the

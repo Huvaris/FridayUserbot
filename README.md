@@ -22,7 +22,7 @@
 
 # String Session - Pyrogram 🖱
 ### Repl 🧨
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@HUVARIS/StringGen)
 ### Locally 🏆
 ```
 $ git clone https://github.com/DevsExpo/FridayUserbot

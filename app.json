@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Your Upstream URL HERE. If You're Beginner, Don't Change This.",
-      "value": "https://github.com/DevsExpo/FridayUserBot",
+      "value": "https://github.com/Huvaris/FridayUserBot",
       "required": false
     },
     "BOT_TOKEN": {
